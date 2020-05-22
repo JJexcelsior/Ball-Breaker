@@ -145,8 +145,10 @@ function draw() {
     else {
       lives--;
       if(!lives) {
-        alert("GAME OVER");
-        document.location.reload();
+     
+        
+        // try and open a gameover.html page
+       location.href = 'gameover.html'
       }
       else {
         x = canvas.width/2;
