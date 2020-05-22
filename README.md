@@ -36,10 +36,10 @@ Definition of the different states and their transition (transition functions)
 - Create player
 - Create ball movement
 - Create bricks
-- Create keboard controls
+- Create keyboard controls
 - Create game over screen
 - Create collission detection walls
-. Create collission detection player - ball
+- Create collission detection player - ball
 - Create collision detection ball - bricks
 - Create Score
 - Create winning condition
