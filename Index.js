@@ -91,7 +91,6 @@ function drawPaddle() {
   ctx.rect(paddleX-2, canvas.height-paddleHeight+2, paddleWidth+4, paddleHeight-4);
   ctx.fillStyle = "#B2B2B2";
   ctx.fill();
-  ctx.stroke
   ctx.closePath();
 }
 function drawBricks() {
