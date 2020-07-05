@@ -1,5 +1,5 @@
 # Ball Breaker
-This is a clone of Arkanoid. First project on Ironhack
+First project on Ironhack
 
 ## Description
 Ball Breaker is a game where the player controls a paddle which prevents a ball from falling from the playing field, attempting to bounce it against a different number of bricks. When the ball stricks a brick it causes the brick to disapear. The goal is to remove all the bricks before the player runs out of time or lives.
